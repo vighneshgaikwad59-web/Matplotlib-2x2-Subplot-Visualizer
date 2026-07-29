@@ -46,6 +46,3 @@ This will open a window displaying all four subplots arranged in a 2x2 grid, wit
 - Save the figure to a file using `plt.savefig()`
 - Parameterize the data and colors for reuse with real datasets
 
-## 📄 License
-
-Feel free to use or modify this script for learning purposes.
